@@ -1,5 +1,5 @@
 const contractAddress = "0xcCD3CBcc6d1135A69D0327440596D6D20cb49984"; //Replace with your own contract address
-const chain = 'ether'; // rinkeby or polygon
+const chain = 'eth'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Chad & Brad Family NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
